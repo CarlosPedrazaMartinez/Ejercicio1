@@ -1,0 +1,58 @@
+body {
+  margin-top: 60px;
+}
+
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">George Washinton</h1>
+        <h2 class="text-center"><em> President of the United States</em></h2>
+        <div class="thumbnail"><img src="https://i.ytimg.com/vi/3lXnfitSoYw/maxresdefault.jpg">
+          <div class="caption text-center">George Washinton,is considered the Father of the Fatherland"</div>
+        </div>
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <h3>Here's a time line of Washinton's life:
+          </h3>
+          <u1>
+            <li><strong>1732</strong> - Born in Westmoreland County, Virginia on February 22, 1732 .</li>
+            <li><strong>1748</strong> - George was invited to assist the expertise of Lord Fairfax's lands west of the Blue Ridge. Through his half-brother, Lawrence Washington, he also worked for the Ohio Company, which aimed to exploit the lands of the west.</li>
+            <li><strong>1749</strong> - George was commissioned as the first surveyor of the newly created Culpeper County.</li>
+            <li><strong>1751</strong> - George and his half-brother traveled to Barbados, staying at Bush Hill House, 15 in the hope that the climate would benefit Lawrence's health, who was suffering from tuberculosis.</li>          
+            <li><strong>1752</strong> - George took over some of his inheritance and assumed some of Lawrence's duties as assistant to the colony and was appointed assistant general of the militia of Virginia.</li> 
+            <li><strong>1753</strong> - Washington was asked by Governor Dinwiddie to bring a British ultimatum to French Canadians on the Ohio border, evaluated the French military force and delivered the message to the French Canadians of Fort Le Boeuf in Waterford, Pennsylvania.</li>      
+            <li><strong>1754</strong> - Dinwiddie named Washington Lieutenant Colonel and ordered him to make an expedition to Fort Duquesne to expel the French Canadians.</li>
+            <li><strong>1755</strong> - Washington was aide to British general Edward Braddock on the Braddock Expedition.</li>
+            <li><strong>1758</strong> - Washington participated as Brigadier General on the Forbes expedition which led to the evacuation of the French Fort Duquesne, and the British settlement of Pittsburgh.Later, Washington resigned from active military service and spent the next sixteen years as a landowner and politician from Virginia.</li>
+            <li><strong>1759</strong> - Washington married widow Martha Dandridge Custis.</li>
+            <li><strong>1765</strong> -  Expressed his opposition to the law of timbre.</li>
+            <li><strong>1766</strong> - Washington had changed Mount Vernon's main commercial tobacco-to-wheat crop, a crop that could be sold in America, and diversified operations included flour milling, fishing, horse breeding, and looms.</li>
+            <li><strong>1769</strong> -  Washington submitted a proposal drafted by its friend George Mason, of Virginia, in which it was demanded to boycott the British products until the laws were repealed.</li>
+             <li><strong>1775</strong> - Washington had doubled the size of Mount Vernon to 6500 hectares (65 km²), and had increased the slave population by more than 100 people, and appeared in the Continental Congress in military uniform, indicating that he was prepared for the armed struggle, and assumed command of the Continental Army in Cambridge, Massachusetts.</li>
+             <li><strong>1776</strong> -  Washington organized a counterattack, highlighting American forces along the Delaware River to capture about 1,000 Hesse mercenaries at the Battle of Trenton, New Jersey.</li>
+             <li><strong>1777</strong> -  Washington camped out at Valley Forge.</li>
+             <li><strong>1781</strong> -  Washington struck the British after a French naval victory that allowed US and French forces to catch the British army in Virginia.</li>
+             <li><strong>1783</strong> -  Washington used its influence to disperse a group of Army officers who had threatened to confront Congress with respect to their back wages and resigned its command like Commander in Chief, emulating the Roman general Cincinato.</li>
+             <li><strong>1784</strong> -  Made an exploration trip to the western border.</li> 
+            <li><strong>1789</strong> -  Electoral College unanimously elected Washington in elections.</li> 
+            <li><strong>1792</strong> - Electoral College unanimously elected Washington again in the elections, thus remaining the only president to have received 100% of the electoral votes.</li>
+             <li><strong>1794</strong> - After Washington ordered demonstrators to appear before the US District Court. The protests were turned into large-scale riots known as the Whiskey Rebellion.</li>
+             <li><strong>1796</strong> - The Washington Farewell Address was one of the most influential statements of American political values. Drawn mainly by Washington himself, with the help of Hamilton, who gave him advice on the necessity and importance of national union, the value of the Constitution and the Rule of Law, the evils of political parties and the virtues proper to a Republican people.</li>
+             <li><strong>1798</strong> - Washington was commissioned by President John Adams to lieutenant-general and commander-in-chief of the armies who came up against a war with France.</li> 
+            <li><strong>1799</strong> - Died the night of December 14, 1799 at his home at age 67, while Dr. James Craik, one of his closest friends, Dr. Gustav Richard Brown, Dr. Eliseo C. Dick, and Dr. Tobias Lear V, his personal secretary.</li>
+            </u1>
+          <blockquote>
+            <p>"First in war, first in peace and first in the hearts of his countrymen, he was unsurpassed in the humble and enduring scenes of private life. Pious, fair, human, temperate, sincere, uniform, dignified and outstanding. His example was as edifying to all around him, as were the effects of this lasting example ... all right, vice shuddered in his presence and virtue always felt encouraged from his hand. The purity of his private character gave brightness to his public virtues ... Such was the man for which our nation is in mourning."</p>
+               <footer><cite>1st President of the United States</cite></footer>
+          </blockquote>
+          <h3>If you have time, you should read more about this incredible human being on his <a href="https://es.wikipedia.org/wiki/George_Washington" target="_blank">Wikipedia entry</a>
+            </h3>
+        </div>
+      </div>
+    </div> 
+  </div>
+  <footer class="text-center">
+    <hr>
+    <p>Written and coded by <a href="https://www.freecodecamp.com/CarlosPedraza" target="_blank">Carlos Pedraza</a>.</p>
+  </footer>
+</div>
